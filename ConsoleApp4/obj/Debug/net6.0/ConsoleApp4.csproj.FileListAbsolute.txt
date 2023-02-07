@@ -1,0 +1,15 @@
+E:\Dz\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+E:\Dz\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+E:\Dz\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+E:\Dz\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+E:\Dz\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+E:\Dz\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
